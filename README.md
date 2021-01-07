@@ -4,7 +4,7 @@
 
 **We the Best**
 
-* DJ Kalad *
+* DJ Khaled *
 
 > Another one 
 
