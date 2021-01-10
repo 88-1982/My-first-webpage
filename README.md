@@ -1,25 +1,21 @@
-# Things DJ Khaled says!
+# DeAunte Hall
 
-## 
+## My first projects
 
-**We the Best**
+### Description of project
+These are some of the first projects I’ve done at **Epicodus **
 
-* DJ Khaled *
+## Technology Used
+1. HTML 
+2. Styles.css 
+3. GitHub 
+4. Boot Strap 
 
-> Another one 
+License
+MIT License
+Copyright (c) [2021] [DeAunte Hall]
 
-1. congratulations you played yourself!
-
-2. Justin Beiber!
-
-3. YEA!
-
-- "Dont ever paly yourself"
-
-- "Obey the former and never the latter"
-
-- "For the win"
-
-[title](https://en.wikipedia.org/wiki/DJ_Khaled)
-
+Contact information
+http://www.88-1982@github.com
+godsofolympus88@gmail.com
 
